@@ -1,0 +1,33 @@
+[
+   {
+      "name": "39Agr1",
+      "block": 39,
+      "street": "Agr",
+      "media": "https://s3.amazonaws.com/regla.survey/photoDatabase/agr/agramonte_block39/agramonte_block39_1a.JPG",
+   },
+   {
+      "name": "39Agr3",
+      "block": 39,
+      "street": "Agr",
+      "media": "https://s3.amazonaws.com/regla.survey/photoDatabase/agr/agramonte_block39/agramonte_block39_3a.JPG",
+
+   },
+   {
+      "name": "39Agr4",
+      "block": 39,
+      "street": "Agr",
+      "media": "https://s3.amazonaws.com/regla.survey/photoDatabase/agr/agramonte_block39/agramonte_block39_4a.JPG",
+   },
+   {
+      "name": "39Agr5",
+      "block": 39,
+      "street": "Agr",
+      "media": "https://s3.amazonaws.com/regla.survey/photoDatabase/agr/agramonte_block39/agramonte_block39_5a.JPG",
+   },
+   {
+      "name": "39Agr6",
+      "block": 39,
+      "street": "Agr",
+      "media": "https://s3.amazonaws.com/regla.survey/photoDatabase/agr/agramonte_block39/agramonte_block39_6a.JPG",
+   }
+]
